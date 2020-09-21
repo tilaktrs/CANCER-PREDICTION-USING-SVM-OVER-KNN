@@ -6,9 +6,9 @@ For building the project we have used Wisconsin Breast cancer data which has 569
 To provide the easy to use interface to doctors we have developed a website that will take the data and display the output with accuracy and time taken to predict.
 
 ## Languages or Frameworks Used
-Python: language
-NumPy: library for numerical calculations
-Pandas: library for data manipulation and analysis
-SkLearn: library which features various classification, regression and clustering algorithms
+#### Python: language
+#### NumPy: library for numerical calculations
+#### Pandas: library for data manipulation and analysis
+#### SkLearn: library which features various classification, regression and clustering algorithms
 
 ### SCREENSHOTS[DATASET]

@@ -13,6 +13,18 @@ To provide the easy to use interface to doctors we have developed a website that
 #### Pandas: library for data manipulation and analysis
 #### SkLearn: library which features various classification, regression and clustering algorithms
 
+### Ten real-valued features are computed for each cell nucleus:
+#### Radius (mean of distances from center to points on the perimeter)
+#### Texture (standard deviation of gray-scale values)
+#### Perimeter
+#### Area
+#### Smoothness (local variation in radius lengths)
+#### Compactness (perimeter² / area — 1.0)
+#### Concavity (severity of concave portions of the contour)
+#### Concave points (number of concave portions of the contour)
+#### Symmetry
+#### Fractal dimension (“coastline approximation” — 1)
+
 ### SCREENSHOTS[DATASET]
 ![Screenshot (202)](https://user-images.githubusercontent.com/50310860/93769668-c3b4de00-fc38-11ea-8268-a048ab4126a1.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/50310860/93769686-ca435580-fc38-11ea-948c-2d306f1aa89a.png)

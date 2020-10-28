@@ -29,3 +29,7 @@ To provide the easy to use interface to doctors we have developed a website that
 ![Screenshot (202)](https://user-images.githubusercontent.com/50310860/93769668-c3b4de00-fc38-11ea-8268-a048ab4126a1.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/50310860/93769686-ca435580-fc38-11ea-948c-2d306f1aa89a.png)
 ![Screenshot (204)](https://user-images.githubusercontent.com/50310860/93769690-cc0d1900-fc38-11ea-9ed1-a9a990d446a0.png)
+
+## HOW DOES SVM CLASSIFY ?
+![1_glixBGaKMiVDhWFwkA3yoQ](https://user-images.githubusercontent.com/50310860/97450284-94407200-1958-11eb-8b2d-6683db95d566.png)
+

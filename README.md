@@ -1,4 +1,6 @@
 # CANCER-PREDICTION-USING-SVM-OVER-KNN
+![1_rQzG9B2w01YpBxpph3YTaw (1)](https://user-images.githubusercontent.com/50310860/97449720-ffd60f80-1957-11eb-9061-4db6ee9c4ed9.png)
+
 ## About project - 
 Breast cancer is the most common type of cancer in women. When cancers are found early, they can often be cured. There are some devices that detect the breast cancer but many times they lead to false positives, which results is patients undergoing painful, expensive surgeries that were not even necessary. These type of cancers are called benign which do not require surgeries and we can reduce these unnecessary surgeries by using Machine Learning. We take a dataset of the previous breast cancer patients and train the model to predict whether the cancer is benign or malignant. These predictions will help doctors to do surgeries only when the cancer is malignant, thus reducing the unnecessary surgeries for woman.
 

@@ -13,7 +13,7 @@ To provide the easy to use interface to doctors we have developed a website that
 #### Pandas: library for data manipulation and analysis
 #### SkLearn: library which features various classification, regression and clustering algorithms
 
-### Ten real-valued features are computed for each cell nucleus:
+## Ten real-valued features are computed for each cell nucleus:
 #### Radius (mean of distances from center to points on the perimeter)
 #### Texture (standard deviation of gray-scale values)
 #### Perimeter
